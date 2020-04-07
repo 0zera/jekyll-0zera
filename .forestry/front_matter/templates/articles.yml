@@ -28,4 +28,5 @@ fields:
   name: post_description
   label: post_description
 pages:
+- _posts/le-voyage-de-chirio.md
 - _posts/un-nouveau-test-foresrty.md
