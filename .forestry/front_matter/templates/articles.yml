@@ -3,12 +3,12 @@ label: Articles
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: Titre
-  description: 'Titre de l''article '
-- type: text
   name: title
-  label: title
+  label: Le titre
+- type: text
+  name: layout
+  label: Le layout
+  description: 'Titre de l''article '
 - type: datetime
   name: date
   label: date
