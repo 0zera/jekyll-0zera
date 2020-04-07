@@ -4,13 +4,15 @@ auto_deploy: false
 admin_path: ''
 webhook_url: '[{"type"=>"heading", "label"=>"salut"}]'
 sections:
+- type: heading
+  label: PAGES
 - type: document
   path: index.md
   label: Acceuil
-  match: "**/*"
-  read_only: false
+- type: heading
+  label: Articles
 - type: jekyll-posts
-  label: Posts
+  label: Articles
   create: all
 upload_dir: uploads
 public_path: "/uploads"
