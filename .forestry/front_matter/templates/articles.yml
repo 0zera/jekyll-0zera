@@ -6,7 +6,7 @@ fields:
   name: title
   label: Le titre
 - type: text
-  name: layout
+  name: post
   label: Le layout
   description: 'Titre de l''article '
 - type: datetime
