@@ -9,7 +9,6 @@ sections:
 - type: document
   path: _pages/donate.md
   label: Donate
-  match: "**/*"
 - type: document
   path: index.md
   label: Acceuil
@@ -19,7 +18,7 @@ sections:
   label: Articles
   create: all
 upload_dir: uploads
-public_path: "/uploads"
+public_path: "/assets/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
