@@ -24,3 +24,5 @@ fields:
 - type: textarea
   name: post_description
   label: post_description
+pages:
+- _posts/mon-article-foresrty.md
