@@ -1,4 +1,13 @@
 ---
 label: TestTemplate
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: datetime
+  label: Test
+  description: azerazer
+  config:
+    required: false
+    date_format: 04/04/2020
+    time_format: 
+    display_utc: false
