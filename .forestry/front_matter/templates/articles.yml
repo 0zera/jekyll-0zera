@@ -27,3 +27,5 @@ fields:
 - type: textarea
   name: post_description
   label: post_description
+pages:
+- _posts/un-nouveau-test-foresrty.md
