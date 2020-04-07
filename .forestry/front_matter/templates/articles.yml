@@ -4,7 +4,8 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Titre
+  description: 'Titre de l''article '
 - type: text
   name: title
   label: title
