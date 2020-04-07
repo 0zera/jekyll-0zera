@@ -21,6 +21,7 @@ fields:
 - type: text
   name: permalink
   label: permalink
+  default: "/:categories/:year/:title"
 - type: textarea
   name: post_description
   label: post_description
