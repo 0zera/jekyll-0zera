@@ -9,6 +9,8 @@ fields:
   name: post
   label: Le layout
   description: 'Titre de l''article '
+  default: post
+  hidden: true
 - type: datetime
   name: date
   label: date
@@ -21,7 +23,7 @@ fields:
 - type: text
   name: permalink
   label: permalink
-  default: "/:categories/:year/:title"
+  default: "/:categories/:title"
 - type: textarea
   name: post_description
   label: post_description
