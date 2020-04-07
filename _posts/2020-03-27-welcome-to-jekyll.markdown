@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "My Second Post"
-date:   2020-03-27 16:11:10 +0100
-categories: posts
-author : Jérémie Claes
+title: My Second Post
+date: 2020-03-27T15:11:10.000+00:00
+categories:
+- posts
+- Art
+author: Jérémie Claes
 permalink: "/:categories/:title.html"
-post_description: Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard.
+post_description: Le Lorem Ipsum est simplement du faux texte employé dans la composition
+  et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard.
+
 ---
 <!--permalink: "/posts/article" -->
 <!--permalink: "/:posts/:article.html"  les /: sont utiliser pour des variables-->
