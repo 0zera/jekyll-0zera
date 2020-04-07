@@ -7,6 +7,10 @@ sections:
 - type: heading
   label: PAGES
 - type: document
+  path: _pages/donate.md
+  label: Donate
+  match: "**/*"
+- type: document
   path: index.md
   label: Acceuil
 - type: heading
