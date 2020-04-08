@@ -2,6 +2,11 @@
 label: Articles
 hide_body: false
 fields:
+- name: img
+  type: file
+  config:
+    maxSize: 250
+  label: Image
 - type: text
   name: title
   label: Le titre
